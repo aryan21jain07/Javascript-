@@ -1,0 +1,1 @@
+console.log("aryan is a good man")
